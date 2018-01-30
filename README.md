@@ -10,6 +10,6 @@ This UDF supports:
 + `*italics*`, `_italics_`
 + `**bold**`, `__bold__`
 + `~~delete~~`
-+ \`code`
-+ \>quote
-+ \`\`\`code block\`\`\`
++ `\`code\``
++ `\>quote`
++ `\`\`\`code block\`\`\``
